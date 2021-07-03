@@ -6,27 +6,24 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75018175-adae-4a2a-bb2f-e85bf41bbac1" name="Default Changelist" comment="My initial commit" />
+    <list default="true" id="75018175-adae-4a2a-bb2f-e85bf41bbac1" name="Default Changelist" comment="My Second commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/rest/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest/src/test/java/ru/netology/rest/MobileBankApiTestV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/rest/src/test/java/ru/netology/rest/MobileBankApiTestV1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest/src/test/resources/accounts.schema.json" beforeDir="false" afterPath="$PROJECT_DIR$/rest/src/test/resources/accounts.schema.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -62,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625305857383</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="My Second commit">
+      <created>1625307289746</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1625307289746</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -75,19 +79,25 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="My initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="My initial commit" />
+    <MESSAGE value="My Second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="My Second commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="647" y="310" key="Github.ShareDialog" timestamp="1625306425487">
+    <state x="647" y="310" key="Github.ShareDialog" timestamp="1625307446525">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="647" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1625306425487" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1625306493549">
+    <state x="647" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1625307446525" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1625307339718">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1625306493549" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1625307339718" />
+    <state x="599" y="203" key="svn.repositoryBrowser" timestamp="1625307346550">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="599" y="203" key="svn.repositoryBrowser/0.0.1536.824@0.0.1536.824" timestamp="1625307346550" />
   </component>
 </project>
