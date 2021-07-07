@@ -1,22 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75018175-adae-4a2a-bb2f-e85bf41bbac1" name="Default Changelist" comment="Add app-mbank">
+    <list default="true" id="afad06ce-d10b-44c9-b887-8ffa123ced56" name="Default Changelist" comment="Manual fix">
+      <change beforePath="$PROJECT_DIR$/.appveyor.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.appveyor.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest/src/test/java/ru/netology/rest/MobileBankApiTestV1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest/src/test/java/ru/netology/rest/MobileBankApiTestV2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest/src/test/java/ru/netology/rest/MobileBankApiTestV3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest/src/test/java/ru/netology/rest/MobileBankApiTestV4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest/src/test/java/ru/netology/rest/MobileBankApiTestV5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest/src/test/java/ru/netology/rest/MobileBankApiTestV6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest/src/test/resources/accounts.schema.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,7 +61,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1unb058xz76hBGeF8jiKvopogky" />
+  <component name="ProjectId" id="1unahUI3WN3fg7Tlh3rggOdkr9c" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -38,45 +71,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="75018175-adae-4a2a-bb2f-e85bf41bbac1" name="Default Changelist" comment="" />
-      <created>1625304074546</created>
+      <changelist id="afad06ce-d10b-44c9-b887-8ffa123ced56" name="Default Changelist" comment="" />
+      <created>1625303926552</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1625304074546</updated>
+      <updated>1625303926552</updated>
     </task>
-    <task id="LOCAL-00001" summary="My initial commit">
-      <created>1625305857383</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1625305857383</updated>
-    </task>
-    <task id="LOCAL-00002" summary="My Second commit">
-      <created>1625307289746</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1625307289746</updated>
-    </task>
-    <task id="LOCAL-00003" summary="My tru second commit">
-      <created>1625329330661</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1625329330663</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Add app-mbank">
-      <created>1625498076191</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1625498076192</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,24 +97,17 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="My initial commit" />
-    <MESSAGE value="My Second commit" />
-    <MESSAGE value="My tru second commit" />
-    <MESSAGE value="Add app-mbank" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add app-mbank" />
+    <MESSAGE value="Manual fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Manual fix" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="647" y="310" key="Github.ShareDialog" timestamp="1625307446525">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1625684603061">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="647" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1625307446525" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1625498081980">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1625684603061" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1625684679714">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1625498081980" />
-    <state x="599" y="203" key="svn.repositoryBrowser" timestamp="1625307346550">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="599" y="203" key="svn.repositoryBrowser/0.0.1536.824@0.0.1536.824" timestamp="1625307346550" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1625684679714" />
   </component>
 </project>
