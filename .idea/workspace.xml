@@ -22,14 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afad06ce-d10b-44c9-b887-8ffa123ced56" name="Default Changelist" comment="Fix .appveyor.yml 4.0">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/rest/MobileBankApiTestV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/rest/MobileBankApiTestV1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/rest/MobileBankApiTestV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/rest/MobileBankApiTestV2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/rest/MobileBankApiTestV3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/rest/MobileBankApiTestV3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/rest/MobileBankApiTestV4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/rest/MobileBankApiTestV4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/rest/MobileBankApiTestV5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/rest/MobileBankApiTestV5.java" afterDir="false" />
-    </list>
+    <list default="true" id="afad06ce-d10b-44c9-b887-8ffa123ced56" name="Default Changelist" comment="Rebuild tests" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -258,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625770941696</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Rebuild tests">
+      <created>1625773713827</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1625773713830</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -283,7 +283,8 @@
     <MESSAGE value="Fix gradlew 2.0" />
     <MESSAGE value="Fix .appveyor.yml 3.0" />
     <MESSAGE value="Fix .appveyor.yml 4.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix .appveyor.yml 4.0" />
+    <MESSAGE value="Rebuild tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rebuild tests" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="0" key="#Project_Structure" timestamp="1625772534683">
@@ -326,9 +327,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1625772419612" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1625770969269">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1625773721426">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1625770969269" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1625773721426" />
   </component>
 </project>
