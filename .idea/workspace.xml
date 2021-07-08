@@ -22,8 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afad06ce-d10b-44c9-b887-8ffa123ced56" name="Default Changelist" comment="app-mbank.jar fix">
+    <list default="true" id="afad06ce-d10b-44c9-b887-8ffa123ced56" name="Default Changelist" comment="Fix gradlew">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625689551966</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Fix gradlew">
+      <created>1625744835779</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1625744835779</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,16 +135,17 @@
     <MESSAGE value="Manual fix 3.0" />
     <MESSAGE value=".appveyor.yml fix 2.0" />
     <MESSAGE value="app-mbank.jar fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="app-mbank.jar fix" />
+    <MESSAGE value="Fix gradlew" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix gradlew" />
   </component>
   <component name="WindowStateProjectService">
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1625684603061">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1625684603061" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1625689558245">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1625744844913">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1625689558245" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1625744844913" />
   </component>
 </project>

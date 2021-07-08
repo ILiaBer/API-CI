@@ -171,5 +171,9 @@ fi
 
 exec "$JAVACMD" "$@"
 
-before_install:
- - chmod +x gradlew
+install:
+  # запускаем SUT (& означает, что в фоновом режиме - не блокируем терминал для запуска тестов)
+  - java -jar ./artifacts/app-mbank.jar &
+build_script:
+  - chmod +x gradlew
+  - ./gradlew test --info  # запускаем тест, флаг --info позволяет выводить больше информации
